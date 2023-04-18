@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Marciniak</h1>
 <h3 align="center">A Fullstack developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=j4isy&label=Profile%20views&color=0e75b6&style=flat" alt="j4isy" /> </p>
-
 - 🔭 I’m currently working on **Final project for CodersLab**
 
 - 🌱 I’m currently learning **React**

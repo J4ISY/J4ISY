@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **kubamar02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jakub-marciniak-3844b726b/](https://www.linkedin.com/in/jakub-marciniak-3844b726b/)
-
 - ⚡ Fun fact **I like riding a longboard**
 
 <h3 align="left">Connect with me:</h3>

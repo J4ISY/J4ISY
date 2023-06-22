@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Marciniak</h1>
 
 # 💫 About Me:
-**🔭 I’m currently working on** Task for a job<br>
+**🔭 I’m currently working on** --- <br>
 **🌱 I’m currently learning** Js, React, Node.js<br>
 **💬 Ask me about** HTML & CSS<br>
 **⚡ Fun fact** I like riding a longboard

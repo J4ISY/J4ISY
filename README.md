@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 **🔭 I’m currently working on** Projects at university <br>
-**🌱 I’m currently learning** IT in at university<br>
+**🌱 I’m currently learning** IT at university<br>
 **💬 Ask me about** HTML & CSS<br>
 **⚡ Fun fact** I like riding a longboard
 
